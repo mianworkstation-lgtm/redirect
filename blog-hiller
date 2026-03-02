@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <!-- Redirect after 10 seconds -->
+    <meta http-equiv="refresh" content="60; url=https://www.effectivegatecpm.com/t8sti205?key=441fa0034274b14c5bd0784ad9b33c21">
+    <title>Redirecting...</title>
+</head>
+<body>
+    <p>You will be redirected to YouTube in 60 seconds...</p>
+
+    <!-- Manual redirect button -->
+    <button onclick="window.location.href='https://www.effectivegatecpm.com/t8sti205?key=441fa0034274b14c5bd0784ad9b33c21'">
+        Click here if you are not redirected
+    </button>
+
+    <!-- Optional direct link fallback -->
+    <p>
+        Or click this link:
+        <a href="https://www.effectivegatecpm.com/t8sti205?key=441fa0034274b14c5bd0784ad9b33c21">
+            Open YouTube Video
+        </a>
+    </p>
+</body>
+</html>
